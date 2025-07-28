@@ -1,1 +1,1 @@
-# EDA-Cohort-Analysis-Hi-u-s-u-v-ng-i-kh-ch-h-ng-trong-eCommerce
+# EDA-Cohort-Analysis
